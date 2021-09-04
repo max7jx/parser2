@@ -2,7 +2,7 @@ name: parser
 
 on:
   schedule:
-    - cron: '0 23 * * *' 
+    - cron: '10 20 * * *' 
 
 jobs:
   build:
